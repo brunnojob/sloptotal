@@ -8,3 +8,5 @@
 
 * [2026-11-01 16:37:37] format applied to internal configs (Ref: d58b9bb4-5)
 
+* [2026-11-01 16:37:37] format applied to utilities (Ref: d58b9bb4-6)
+
