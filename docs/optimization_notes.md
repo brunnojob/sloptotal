@@ -28,3 +28,5 @@
 
 * [2026-11-01 16:37:39] improve applied to module structure (Ref: d58b9bb4-15)
 
+* [2026-11-01 16:37:39] format applied to utilities (Ref: d58b9bb4-16)
+
