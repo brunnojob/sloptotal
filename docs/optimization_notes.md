@@ -96,3 +96,5 @@
 
 * [2026-11-01 16:28:39] optimize applied to inline comments (Ref: 7eaf67a1-49)
 
+* [2026-11-01 16:28:39] format applied to utilities (Ref: 7eaf67a1-50)
+
