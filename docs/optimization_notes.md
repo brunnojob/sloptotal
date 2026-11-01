@@ -78,3 +78,5 @@
 
 * [2026-11-01 16:28:37] improve applied to utilities (Ref: 7eaf67a1-40)
 
+* [2026-11-01 16:28:37] update applied to module structure (Ref: 7eaf67a1-41)
+
