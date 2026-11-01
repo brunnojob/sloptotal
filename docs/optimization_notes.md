@@ -84,3 +84,5 @@
 
 * [2026-11-01 17:30:25] optimize applied to utilities (Ref: 4f0fd06d-43)
 
+* [2026-11-01 17:30:25] clean applied to internal configs (Ref: 4f0fd06d-44)
+
