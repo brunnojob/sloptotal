@@ -16,3 +16,5 @@
 
 * [2026-11-01 16:28:32] format applied to type hints (Ref: 7eaf67a1-9)
 
+* [2026-11-01 16:28:32] clean applied to type hints (Ref: 7eaf67a1-10)
+
