@@ -90,3 +90,5 @@
 
 * [2026-11-01 16:28:38] clean applied to type hints (Ref: 7eaf67a1-46)
 
+* [2026-11-01 16:28:38] update applied to internal configs (Ref: 7eaf67a1-47)
+
