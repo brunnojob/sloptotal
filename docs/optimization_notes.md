@@ -40,3 +40,5 @@
 
 * [2026-11-01 17:30:12] clean applied to utilities (Ref: 4f0fd06d-21)
 
+* [2026-11-01 17:30:12] format applied to inline comments (Ref: 4f0fd06d-22)
+
