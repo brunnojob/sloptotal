@@ -22,3 +22,5 @@
 
 * [2026-11-01 17:30:10] update applied to type hints (Ref: 4f0fd06d-12)
 
+* [2026-11-01 17:30:10] update applied to inline comments (Ref: 4f0fd06d-13)
+
