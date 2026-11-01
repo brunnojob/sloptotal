@@ -32,3 +32,5 @@
 
 * [2026-11-01 16:28:33] optimize applied to utilities (Ref: 7eaf67a1-17)
 
+* [2026-11-01 16:28:33] clean applied to internal configs (Ref: 7eaf67a1-18)
+
