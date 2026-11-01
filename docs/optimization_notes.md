@@ -6,3 +6,5 @@
 
 * [2026-11-01 17:30:08] format applied to module structure (Ref: 4f0fd06d-4)
 
+* [2026-11-01 17:30:09] improve applied to inline comments (Ref: 4f0fd06d-5)
+
