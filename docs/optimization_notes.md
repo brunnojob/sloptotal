@@ -48,3 +48,5 @@
 
 * [2026-11-01 16:28:35] format applied to utilities (Ref: 7eaf67a1-25)
 
+* [2026-11-01 16:28:35] format applied to internal configs (Ref: 7eaf67a1-26)
+
