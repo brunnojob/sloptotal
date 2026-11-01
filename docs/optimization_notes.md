@@ -4,3 +4,5 @@
 
 * [2026-11-01 17:30:08] clean applied to internal configs (Ref: 4f0fd06d-3)
 
+* [2026-11-01 17:30:08] format applied to module structure (Ref: 4f0fd06d-4)
+
