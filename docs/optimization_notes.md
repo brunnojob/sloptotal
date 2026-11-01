@@ -70,3 +70,5 @@
 
 * [2026-11-01 16:37:46] clean applied to internal configs (Ref: d58b9bb4-36)
 
+* [2026-11-01 16:37:46] improve applied to internal configs (Ref: d58b9bb4-37)
+
