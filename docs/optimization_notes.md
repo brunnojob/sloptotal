@@ -40,3 +40,5 @@
 
 * [2026-11-01 16:37:40] improve applied to utilities (Ref: d58b9bb4-21)
 
+* [2026-11-01 16:37:41] update applied to inline comments (Ref: d58b9bb4-22)
+
