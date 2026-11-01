@@ -64,3 +64,5 @@
 
 * [2026-11-01 16:37:45] update applied to internal configs (Ref: d58b9bb4-33)
 
+* [2026-11-01 16:37:45] improve applied to inline comments (Ref: d58b9bb4-34)
+
