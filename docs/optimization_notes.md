@@ -64,3 +64,5 @@
 
 * [2026-11-01 16:28:36] improve applied to type hints (Ref: 7eaf67a1-33)
 
+* [2026-11-01 16:28:36] format applied to module structure (Ref: 7eaf67a1-34)
+
