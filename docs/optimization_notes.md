@@ -88,3 +88,5 @@
 
 * [2026-11-01 16:28:38] format applied to inline comments (Ref: 7eaf67a1-45)
 
+* [2026-11-01 16:28:38] clean applied to type hints (Ref: 7eaf67a1-46)
+
