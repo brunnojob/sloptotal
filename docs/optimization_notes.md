@@ -68,3 +68,5 @@
 
 * [2026-11-01 16:28:37] optimize applied to type hints (Ref: 7eaf67a1-35)
 
+* [2026-11-01 16:28:37] format applied to internal configs (Ref: 7eaf67a1-36)
+
