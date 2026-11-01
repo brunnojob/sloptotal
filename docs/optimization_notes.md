@@ -50,3 +50,5 @@
 
 * [2026-11-01 17:30:13] format applied to type hints (Ref: 4f0fd06d-26)
 
+* [2026-11-01 17:30:13] improve applied to internal configs (Ref: 4f0fd06d-27)
+
