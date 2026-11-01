@@ -30,3 +30,5 @@
 
 * [2026-11-01 16:28:33] optimize applied to inline comments (Ref: 7eaf67a1-16)
 
+* [2026-11-01 16:28:33] optimize applied to utilities (Ref: 7eaf67a1-17)
+
