@@ -94,3 +94,5 @@
 
 * [2026-11-01 17:30:26] optimize applied to internal configs (Ref: 4f0fd06d-48)
 
+* [2026-11-01 17:30:26] optimize applied to type hints (Ref: 4f0fd06d-49)
+
