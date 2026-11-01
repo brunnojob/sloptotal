@@ -86,3 +86,5 @@
 
 * [2026-11-01 16:37:48] improve applied to internal configs (Ref: d58b9bb4-44)
 
+* [2026-11-01 16:37:48] format applied to type hints (Ref: d58b9bb4-45)
+
