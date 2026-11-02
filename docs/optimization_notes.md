@@ -90,3 +90,5 @@
 
 * [2026-11-02 00:49:16] format applied to utilities (Ref: 584e8d6b-46)
 
+* [2026-11-02 00:49:17] clean applied to internal configs (Ref: 584e8d6b-47)
+
