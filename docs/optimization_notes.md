@@ -42,3 +42,5 @@
 
 * [2026-11-02 00:49:13] format applied to module structure (Ref: 584e8d6b-22)
 
+* [2026-11-02 00:49:13] format applied to inline comments (Ref: 584e8d6b-23)
+
