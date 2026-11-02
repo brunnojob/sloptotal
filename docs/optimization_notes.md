@@ -48,3 +48,5 @@
 
 * [2026-11-02 00:49:13] improve applied to type hints (Ref: 584e8d6b-25)
 
+* [2026-11-02 00:49:13] clean applied to utilities (Ref: 584e8d6b-26)
+
