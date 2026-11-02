@@ -80,3 +80,5 @@
 
 * [2026-11-02 00:54:36] format applied to utilities (Ref: 3e21cb06-41)
 
+* [2026-11-02 00:54:37] format applied to internal configs (Ref: 3e21cb06-42)
+
