@@ -62,3 +62,5 @@
 
 * [2026-11-02 00:54:30] improve applied to inline comments (Ref: 3e21cb06-32)
 
+* [2026-11-02 00:54:31] optimize applied to internal configs (Ref: 3e21cb06-33)
+
