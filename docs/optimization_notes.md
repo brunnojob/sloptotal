@@ -22,3 +22,5 @@
 
 * [2026-11-02 00:54:24] format applied to type hints (Ref: 3e21cb06-12)
 
+* [2026-11-02 00:54:24] clean applied to internal configs (Ref: 3e21cb06-13)
+
