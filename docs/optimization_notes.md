@@ -52,3 +52,5 @@
 
 * [2026-11-02 00:54:29] update applied to module structure (Ref: 3e21cb06-27)
 
+* [2026-11-02 00:54:29] improve applied to inline comments (Ref: 3e21cb06-28)
+
