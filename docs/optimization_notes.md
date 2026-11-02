@@ -38,3 +38,5 @@
 
 * [2026-11-02 00:54:27] format applied to internal configs (Ref: 3e21cb06-20)
 
+* [2026-11-02 00:54:27] clean applied to inline comments (Ref: 3e21cb06-21)
+
