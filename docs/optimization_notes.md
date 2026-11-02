@@ -84,3 +84,5 @@
 
 * [2026-11-02 00:54:37] optimize applied to internal configs (Ref: 3e21cb06-43)
 
+* [2026-11-02 00:54:37] clean applied to module structure (Ref: 3e21cb06-44)
+
