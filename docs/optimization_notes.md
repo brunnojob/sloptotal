@@ -14,3 +14,5 @@
 
 * [2026-11-02 00:49:11] clean applied to inline comments (Ref: 584e8d6b-8)
 
+* [2026-11-02 00:49:11] clean applied to utilities (Ref: 584e8d6b-9)
+
