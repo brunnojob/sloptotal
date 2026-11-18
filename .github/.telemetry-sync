@@ -1,4 +1,4 @@
 date=2026-11-19
-seq=396
-ts=1795040557
-scope=heuristics
+seq=397
+ts=1795040566
+scope=ast-cleaner
