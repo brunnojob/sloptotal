@@ -1,4 +1,4 @@
 date=2026-11-19
-seq=588
-ts=1795042047
-scope=cli
+seq=589
+ts=1795042048
+scope=ast-cleaner
