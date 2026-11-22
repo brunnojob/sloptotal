@@ -1,4 +1,4 @@
 date=2026-11-22
-seq=111
-ts=1795323513
-scope=ast-cleaner
+seq=112
+ts=1795323516
+scope=token-filter
