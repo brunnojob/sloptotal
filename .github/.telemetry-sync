@@ -1,4 +1,4 @@
 date=2026-11-22
-seq=343
-ts=1795324327
-scope=heuristics
+seq=344
+ts=1795324346
+scope=token-filter
